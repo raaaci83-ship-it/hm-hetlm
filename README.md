@@ -1,4 +1,4 @@
-# هم ما يتلم — PWA
+# همّ هيتلمّ — PWA
 ## النشر (مجاني، HTTPS تلقائي)
 Netlify: ادخل app.netlify.com/drop واسحب فولدر `hm-planner` كله. هتاخد رابط https جاهز.
 GitHub Pages: ارفع الملفات لريبو، Settings → Pages → Deploy from branch (main / root).
